@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=30&duration=3000&pause=1000&color=83D5F7&background=FFCBD89A&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=435&lines=%E6%90%AC%E7%A0%96%E4%B8%AD%E3%80%82%E3%80%82%E3%80%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=%E7%9C%9F&width=435&lines=%E6%90%AC%E7%A0%96%E4%B8%AD%E3%80%82%E3%80%82%E3%80%82)](https://git.io/typing-svg)
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
