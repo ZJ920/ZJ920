@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world！！！ 👋
 
 <!--
 **ZJ920/ZJ920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <!---->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=%E7%9C%9F&width=435&lines=%E6%90%AC%E7%A0%96%E4%B8%AD%E3%80%82%E3%80%82%E3%80%82)](https://git.io/typing-svg)
 
-<!--
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=535&height=80&lines=%E6%90%AC%E7%A0%96%E4%B8%AD%E3%80%82%E3%80%82%E3%80%82)](https://git.io/typing-svg)<!--
 常用语言占比统计
   展示了常用语言极其占据的百分比
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJ920)](https://github.com/ZJ920/github-readme-stats)
+-->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJ920)](https://github.com/ZJ920/github-readme-stats)
+
+
+
 
 <!--
 仓库状态统计
