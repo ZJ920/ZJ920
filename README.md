@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   展示了常用语言极其占据的百分比
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=535&height=80&lines=%E6%90%AC%E7%A0%96%E4%B8%AD%E3%80%82%E3%80%82%E3%80%82)](https://git.io/typing-svg)<!--输出：搬砖中...-->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJ920)](https://github.com/ZJ920/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DD3F7&random=false&width=435&lines=%E6%98%A5%E9%A3%8E%E5%BE%97%E6%84%8F%E9%A9%AC%E8%B9%84%E7%96%BE%EF%BC%8C%E4%B8%80%E6%97%A5%E7%9C%8B%E5%B0%BD%E9%95%BF%E5%AE%89%E8%8A%B1%E3%80%82)](https://git.io/typing-svg)<!--输出：春风得意马蹄疾-->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJ920)](https://github.com/ZJ920/github-readme-stats)
 
 ---
 <!--
